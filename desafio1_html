@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina principal</title>
+</head>
+<body>
+    <h1 id="inicio">Exemplo de matéria em um blog</h1>
+    <hr>
+    <h2>índice</h2>
+    <ul>
+        <li><a href="#surgimento">Surgimento da internet</a></li>
+        <li><a href="#funciona">Como funciona o HTML</a></li>
+        <li><a href="#tags">O que são Tags</a></li>
+    </ul>
+    
+    <h3 id="surgimento">Surgimento da internet</h3>
+    <small><a href="#inicio">(Voltar)</a></small>
+        <P>Com o intuito de facilitar a troca de informações, pois temiam ataques dos soviéticos, o Departamento de Defesa dos Estados Unidos (ARPA - Advanced Research Projects Agency) criou um sistema de compartilhamento de informações entre pessoas distantes geograficamente, a fim de facilitar as estratégias de guerra.
+    Nesse momento, surge o protótipo da primeira rede de internet, a Arpanet (Advanced Research Projects Agency Network). Assim, no dia 29 de outubro de 1969 foi estabelecida a primeira conexão entre a Universidade da Califórnia e o Instituto de Pesquisa de Stanford. Foi um momento histórico, uma vez que o primeiro e-mail foi enviado.
+        </P>
+
+    <h4 id="funciona">Como funciona o HTML</h4>
+    <small><a href="#inicio">(Voltar)</a></small>
+       <p>O HTML é uma linguagem de marcação com a qual os elementos de uma página são identificados e definidos, 
+        geralmente, por um par de marcadores conhecidos como tags. Esses elementos podem ser desde textos e suas formatações, como parágrafos, sublinhados e 
+        links, até conteúdos multimídia, como imagens e vídeos.
+        </p>
+
+    <h4 id="tags">O que são tags</h4>
+    <small><a href="#inicio">(Voltar)</a></small>
+        <p>Tags HTML são instruções que informam ao navegador como formatar o texto. Você pode usar tags para definir itálico, quebras de linha, objetos, bullet points e muito mais.
+            Essas tags estão presentes no HTML (Hypertext Markup Language) de todas as páginas da internet.
+        </p>
+
+</body>
+</html>
